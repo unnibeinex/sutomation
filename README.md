@@ -9,3 +9,6 @@ Last updated on 2025-11-04 17:22:13
 
 ### Current Version: 2025.2.5
 Last updated on 2025-11-04 17:44:24
+
+### Current Version: 1.2.3
+Last updated on 2025-11-10 16:03:46
